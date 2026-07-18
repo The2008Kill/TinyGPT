@@ -1,0 +1,84 @@
+# Eine URL pro Zeile eintragen, z.B.:
+# https://de.wikipedia.org/wiki/Transformer_(Maschinelles_Lernen)
+# PC/Computer-Wissen - URLs für scraper.py
+# Deutsche Wikipedia-Artikel, breit gestreut über Hardware, Software,
+# Netzwerke, Betriebssysteme und Grundlagen.
+# Zeilen mit # werden ignoriert. Nach Bedarf ergänzen/entfernen.
+# Hinweis: falls einzelne Titel nicht mehr exakt stimmen (Wikipedia
+# benennt Artikel gelegentlich um), meldet scraper.py das einfach als
+# Fehler für diese eine URL und macht mit den restlichen weiter.
+
+# --- Grundlagen & Architektur ---
+https://de.wikipedia.org/wiki/Computer
+https://de.wikipedia.org/wiki/Personal_Computer
+https://de.wikipedia.org/wiki/Computerarchitektur
+https://de.wikipedia.org/wiki/Von-Neumann-Architektur
+https://de.wikipedia.org/wiki/Geschichte_des_Personal_Computers
+https://de.wikipedia.org/wiki/Bit
+https://de.wikipedia.org/wiki/Byte
+https://de.wikipedia.org/wiki/Dualsystem
+https://de.wikipedia.org/wiki/Algorithmus
+
+# --- Hardware: Kernkomponenten ---
+https://de.wikipedia.org/wiki/Prozessor
+https://de.wikipedia.org/wiki/Hauptplatine
+https://de.wikipedia.org/wiki/Arbeitsspeicher
+https://de.wikipedia.org/wiki/Grafikprozessor
+https://de.wikipedia.org/wiki/Grafikkarte
+https://de.wikipedia.org/wiki/Solid-State-Drive
+https://de.wikipedia.org/wiki/Festplattenlaufwerk
+https://de.wikipedia.org/wiki/Computergehäuse
+https://de.wikipedia.org/wiki/Netzteil
+https://de.wikipedia.org/wiki/Computerkühlung
+https://de.wikipedia.org/wiki/Übertakten
+https://de.wikipedia.org/wiki/BIOS
+https://de.wikipedia.org/wiki/Unified_Extensible_Firmware_Interface
+https://de.wikipedia.org/wiki/USB
+https://de.wikipedia.org/wiki/PCI_Express
+
+# --- Peripherie ---
+https://de.wikipedia.org/wiki/Tastatur_(Computer)
+https://de.wikipedia.org/wiki/Computermaus
+https://de.wikipedia.org/wiki/Bildschirm
+https://de.wikipedia.org/wiki/Drucker_(Computer)
+https://de.wikipedia.org/wiki/Laptop
+https://de.wikipedia.org/wiki/Tablet-Computer
+https://de.wikipedia.org/wiki/Smartphone
+
+# --- Betriebssysteme ---
+https://de.wikipedia.org/wiki/Betriebssystem
+https://de.wikipedia.org/wiki/Betriebssystemkern
+https://de.wikipedia.org/wiki/Microsoft_Windows
+https://de.wikipedia.org/wiki/Linux
+https://de.wikipedia.org/wiki/Linux-Distribution
+https://de.wikipedia.org/wiki/MacOS
+
+# --- Software & Programmierung ---
+https://de.wikipedia.org/wiki/Software
+https://de.wikipedia.org/wiki/Softwareentwicklung
+https://de.wikipedia.org/wiki/Programmiersprache
+https://de.wikipedia.org/wiki/Compiler
+https://de.wikipedia.org/wiki/Datenbank
+https://de.wikipedia.org/wiki/Virtualisierung
+https://de.wikipedia.org/wiki/Docker_(Software)
+
+# --- Netzwerk & Internet ---
+https://de.wikipedia.org/wiki/Rechnernetz
+https://de.wikipedia.org/wiki/Internet
+https://de.wikipedia.org/wiki/Ethernet
+https://de.wikipedia.org/wiki/WLAN
+https://de.wikipedia.org/wiki/Router_(Computernetzwerk)
+https://de.wikipedia.org/wiki/TCP/IP-Referenzmodell
+https://de.wikipedia.org/wiki/Server_(Informatik)
+
+# --- Sicherheit ---
+https://de.wikipedia.org/wiki/Schadprogramm
+https://de.wikipedia.org/wiki/Firewall
+https://de.wikipedia.org/wiki/Antivirenprogramm
+
+# --- Weiterführend ---
+https://de.wikipedia.org/wiki/Cloud_Computing
+https://de.wikipedia.org/wiki/Rechenzentrum
+https://de.wikipedia.org/wiki/Quantencomputer
+https://de.wikipedia.org/wiki/Künstliche_Intelligenz
+https://de.wikipedia.org/wiki/Maschinelles_Lernen

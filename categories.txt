@@ -1,0 +1,18 @@
+# Wikipedia-Kategorien für wiki_category_scraper.py
+# Jede Kategorie kann mehrere hundert Artikel enthalten - deutlich mehr
+# Umfang als die einzelnen URLs in urls.txt.
+# Zeilen mit # werden ignoriert.
+
+Kategorie:Hardware
+Kategorie:Prozessor
+Kategorie:Massenspeicher
+Kategorie:Betriebssystem
+Kategorie:Linux
+Kategorie:Rechnernetze
+Kategorie:Netzwerktechnik
+Kategorie:Computersicherheit
+Kategorie:Programmiersprache
+Kategorie:Softwareentwicklung
+Kategorie:Datenbank
+Kategorie:Peripheriegerät
+Kategorie:Personal Computer
