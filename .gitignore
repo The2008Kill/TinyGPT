@@ -1,0 +1,18 @@
+# Trainingsdaten und Modell-Checkpoints - werden durch die Skripte
+# selbst erzeugt (scraper, prepare_data, train), sind groß und bei
+# jedem individuell unterschiedlich. Gehören nicht ins Repo.
+data/corpus.txt
+data/*.pt
+data/meta.pkl
+data/tokenizer/
+ckpt.pt
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# IDE
+.idea/
